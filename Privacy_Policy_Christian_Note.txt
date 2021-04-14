@@ -1,0 +1,39 @@
+iOS App Privacy Policy
+
+The Christian Note application has the following measures to protect users' personal information and their rights and interests in accordance with the Personal Information Protection Act:
+When we revise our personal information processing policy, we will announce it through the app screen and website announcement.
+
+1. Purpose of processing personal information:
+This application is a standalone application that does not collect personal information and does not operate a separate server or collect information.
+We do not save or use personal information separately.
+
+2. Status of personal information files
+We do not use and do not save any of our personal information files.
+We do not save and do not use Cookie.
+
+3. Processing and retention period of personal information
+We do not store or hold personal information directly.
+Therefore, we do not have any contents or retention period for users' personal information.
+
+4. Matters concerning the provision of personal information to third parties;
+We do not provide personal information to third parties.
+
+5. Consignment of personal information processing.
+We do not entrust personal information.
+
+6. The rights and obligations of the information subject and the methods of exercise thereof
+Users can exercise their rights as personal information entities.
+
+1) Request for reading personal information
+2) Request correction in case of errors, etc.
+3) Request for deletion
+4) Request for suspension of processing
+We do not store or entrust personal information.
+
+7. Destruction of personal information
+Our application is a standalone application and we do not use a separate server.
+Also, there is nothing to destroy because you do not store personal information.
+However, all data can be destroyed by 'deleting' the application if the user wants to.
+
+8. Creating a person in charge of privacy
+- Email: thinqryu@gmail.com
